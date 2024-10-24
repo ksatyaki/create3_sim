@@ -2,6 +2,9 @@
 Changelog for package irobot_create_nodes
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 3.0.3 (2024-09-28)
 ------------------
 

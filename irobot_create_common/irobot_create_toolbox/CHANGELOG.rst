@@ -2,6 +2,11 @@
 Changelog for package irobot_create_toolbox
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* change gz_math_vendor from buildtool dependency to regular dependency
+* Contributors: Alberto Soragna
+
 3.0.3 (2024-09-28)
 ------------------
 * Generalize gz vendor use and modernize CMake (`#232 <https://github.com/iRobotEducation/create3_sim/issues/232>`_)
