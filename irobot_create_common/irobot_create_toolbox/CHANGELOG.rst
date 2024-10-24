@@ -2,8 +2,8 @@
 Changelog for package irobot_create_toolbox
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+3.0.4 (2024-10-23)
+------------------
 * change gz_math_vendor from buildtool dependency to regular dependency
 * Contributors: Alberto Soragna
 
